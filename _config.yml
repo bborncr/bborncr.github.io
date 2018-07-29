@@ -1,2 +1,3 @@
 name: sitename
 markdown: kramdown
+theme: jekyll-theme-tactile
