@@ -1,5 +1,6 @@
 ---
-title: Hank Quinlan
+title: github.io
+name: main page
 ---
 # Header 1
 This is using markdown.
