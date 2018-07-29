@@ -1,6 +1,6 @@
 ---
-title: title
-name: name
+title: pagetitle
+name: pagename
 ---
 # Header 1
 This is using markdown.
