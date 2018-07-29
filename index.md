@@ -1,6 +1,6 @@
 ---
-title: github.io
-name: main page
+title: title
+name: name
 ---
 # Header 1
 This is using markdown.
